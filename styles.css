@@ -1,0 +1,105 @@
+nav {
+
+padding: 0;
+margin: 0;
+text_align: center;
+}
+
+h1 {
+
+color: red;
+font-size: 30px;
+text_align: justify;
+
+}
+
+h2 {
+
+color: green;
+font-size: 25px;
+text_align: justify;
+
+}
+
+caption {
+	
+	color: red;
+	text-align: center;
+	text-decoration: underline dotted red
+	
+}
+
+table {
+	
+	border: 1px solid black;
+	
+}
+
+Td {
+	border: 1px solid black
+	
+}
+	
+	
+Th {
+	border: 1px solid black
+	
+}
+
+#p1 {
+			font-size: 20px; 
+			color: white;
+			}
+			
+			Td {
+			border: 2px solid black;
+			}
+			
+#banniere {
+		background-image: url("banniere.png");
+		height:400px;
+		width:68%;
+		margin:auto;
+		}
+		
+		nav{
+	padding: 0; margin: 0;
+	text-align : center;	
+	}
+	
+	/*espace entre la marge du haut et le menu/*
+	text-align : center; /*centre le texte*/
+	
+	nav li{
+	display:inline;
+	list-style:none;
+	text-align : justify;
+	}
+		
+		nav a{
+		display: inline block;
+		margin: 0 40 3 40px; /*haut bas droite gauche*/
+		background: yellow;
+		width: 120px;
+		text-decoration:none;
+		color: blue;
+		height: 30px;
+		line-height: 3 50 3 50px;
+		padding: 0 50px;
+		font-family: Arial;
+		font-size: 20px;
+		text-align: center;
+	    }
+		
+		footer {
+			background: green;
+			width: 97%;
+			justify-content: center;
+			padding: 30px;
+			margin-left: auto;
+		}
+		
+		#p2 {
+			font-size : 20px;
+			color : yellow;
+		}
